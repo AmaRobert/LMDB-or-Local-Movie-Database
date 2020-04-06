@@ -1,0 +1,19 @@
+﻿  Uic'ing Tema.ui...
+  Rcc'ing Tema.qrc...
+  Moc'ing Tema.h...
+   RCC: Warning: No resources in 'C:\Users\Robert\Desktop\Facultate semestrul 2\AICi\Tema\Tema\Tema.qrc'.
+  AdminController.cpp
+  FileRepository.cpp
+  main.cpp
+  Movie.cpp
+  Repository.cpp
+  Tema.cpp
+  UndoAction.cpp
+  UserController.cpp
+  qrc_Tema.cpp
+  moc_Tema.cpp
+c:\users\robert\desktop\facultate semestrul 2\aici\tema\tema\admincontroller.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline (compiling source file AdminController.cpp)
+c:\users\robert\desktop\facultate semestrul 2\aici\tema\tema\admincontroller.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline (compiling source file main.cpp)
+c:\users\robert\desktop\facultate semestrul 2\aici\tema\tema\admincontroller.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline (compiling source file GeneratedFiles\Debug\moc_Tema.cpp)
+c:\users\robert\desktop\facultate semestrul 2\aici\tema\tema\admincontroller.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline (compiling source file Tema.cpp)
+  Tema.vcxproj -> C:\Users\Robert\Desktop\Facultate semestrul 2\AICi\Tema\x64\Debug\Tema.exe
